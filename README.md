@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="/project/RateMyClass/app/assets/images/logo.png" alt="RateMyClass" width="500" height="auto">
+    <img src="app/assets/images/logo.png" alt="RateMyClass" width="500" height="auto">
   </a>
   <h3 align="center">RateMyClass</h3>
   <p align="center">
